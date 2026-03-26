@@ -1,3 +1,5 @@
+package inclass_code.w2;
+
 public class welcome {
     public static void main(String[] args) {
         System.out.println("자바는 처음이죠?");

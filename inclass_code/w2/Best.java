@@ -1,3 +1,5 @@
+package inclass_code.w2;
+
 public class Best {
     public static void main(String[] args) {
         System.out.println("학기 시작되었어요!");

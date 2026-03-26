@@ -1,3 +1,5 @@
+package inclass_code.w2;
+
 import java.util.Scanner;
 
 public class ScannerEx {
